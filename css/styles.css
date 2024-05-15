@@ -10,7 +10,6 @@
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #4d5ae5;
 }
 
@@ -179,4 +178,12 @@
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
 }
