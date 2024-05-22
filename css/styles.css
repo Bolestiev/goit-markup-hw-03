@@ -187,3 +187,7 @@ a {
 ul {
   list-style: none;
 }
+
+.image {
+  display: block;
+}
