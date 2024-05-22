@@ -196,13 +196,14 @@
 .menu-section-three {
   display: flex;
   gap: 24px;
+  padding: 0;
+  margin: 0;
 }
 
 .worker-one {
   background-color: #ffffff;
   width: calc((100% - 72px) / 4);
-  padding: 0;
-  margin: 0;
+
   border-radius: 0px 0px 4px 4px;
 }
 
@@ -251,6 +252,8 @@
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+  padding: 0;
+  margin: 0;
 }
 
 .list-section-four {
@@ -280,6 +283,8 @@
   letter-spacing: 0.02em;
 }
 
+/* ------------------------------FOOTER-------------------------- */
+
 .finish-list {
   background-color: #2e2f42;
   padding-top: 100px;
@@ -308,6 +313,8 @@
   letter-spacing: 0.02em;
   max-width: 264px;
 }
+
+/* ------------------------------------------------------ */
 
 a {
   text-decoration: none;
