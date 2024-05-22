@@ -26,12 +26,23 @@
   border-bottom: 1px solid #e7e9fc;
 }
 
+.navigation-header {
+  display: flex;
+  align-items: center;
+}
+
 .header-logo {
   color: #4d5ae5;
+  margin-right: 76px;
 }
 
 .span-class {
   color: #2e2f42;
+}
+
+.menu-header {
+  display: flex;
+  gap: 40px;
 }
 
 .krater {
@@ -40,6 +51,8 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .krater:hover {
@@ -52,6 +65,11 @@
 
 .address-class {
   font-style: normal;
+}
+
+.menu-address-header {
+  display: flex;
+  gap: 40px;
 }
 
 .add-address-class {
