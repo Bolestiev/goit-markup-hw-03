@@ -14,7 +14,6 @@ p {
   margin: 0;
 }
 
-(ul) */
 ul {
   list-style: none;
   padding-left: 0;
@@ -25,6 +24,7 @@ ul {
 
 .container-header {
   display: flex;
+  align-items: center;
 }
 
 .container {
@@ -74,6 +74,7 @@ ul {
   color: #2e2f42;
   padding-top: 24px;
   padding-bottom: 24px;
+  display: block;
 }
 
 .krater:hover {
@@ -86,6 +87,7 @@ ul {
 
 .address-class {
   font-style: normal;
+  margin-left: auto;
 }
 
 .menu-address-header {
