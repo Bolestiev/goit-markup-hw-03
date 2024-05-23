@@ -75,9 +75,6 @@
 .menu-address-header {
   display: flex;
   gap: 40px;
-  padding-left: 0;
-  margin-top: 0;
-  margin-bottom: 0;
 }
 
 .add-address-class {
@@ -180,12 +177,15 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
+  margin-top: 0;
 }
 
 .text-one {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 /* --------------------------SECTION 3 OUR TEAM---------------------------- */
@@ -204,6 +204,7 @@
   text-transform: capitalize;
   color: #2e2f42;
   margin-bottom: 72px;
+  margin-top: 0;
 }
 
 .menu-section-three {
@@ -234,6 +235,7 @@
   color: #2e2f42;
   text-align: center;
   margin-bottom: 8px;
+  margin-top: 0;
 }
 
 .text-two {
@@ -242,6 +244,8 @@
   letter-spacing: 0.02em;
   color: #434455;
   text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 /* ------------------------------------SECTION 4 OUR PORTFOLIO----------------------------- */
@@ -259,6 +263,7 @@
   text-transform: capitalize;
   color: #2e2f42;
   margin-bottom: 72px;
+  margin-top: 0;
 }
 
 .menu-section-four {
@@ -290,12 +295,15 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
+  margin-top: 0;
 }
 
 .info-list {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 /* ------------------------------FOOTER-------------------------- */
